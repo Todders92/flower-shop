@@ -11,19 +11,19 @@ _This Application has the user choose what kind of flowers they would like to or
 ## Specs
 
 1. _User selects number of flowers, returns a baseline price._
-    *   _Example Input: enters 10 pastries_
+    *   _Example Input: enters 10 flowers_
     *   _Example Output: your order total is $10_
 
 2. _User can also select color in conjunction with flowers, application returns a baseline price._
-    *	_Example Input: enters 10 flowers and 2 breads_
+    *	_Example Input: enters 10 flowers and 2 colors_
     *   _Example Output: your order total is $10_ 
 
 3. _based on the number of flowers and colors selected, the user is returned a price_
-    *	_Example Input: enters 6 flowers and 2 bread_
+    *	_Example Input: enters 6 flowers and 2 colors_
     *   _Example Output: your order total is $22_
 
 4. _The price of flowers is set to 1 for $2 or 3 for $5_
-    *	_Example Input: enters 4 pastries_
+    *	_Example Input: enters 4 flowers_
     *	_Example Output: your order total is $7_
 
 5. _The price of color is set to $5 each with buy 2 get one free_
